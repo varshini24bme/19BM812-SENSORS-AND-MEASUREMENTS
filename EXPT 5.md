@@ -35,7 +35,8 @@ force applied.
 
 
 # TABLE
-<img width="978" height="408" alt="image" src="https://github.com/user-attachments/assets/217a997b-b246-4af2-8d4c-47650c2eb564" />
+<img width="1151" height="1600" alt="WhatsApp Image 2026-05-29 at 10 20 28 AM" src="https://github.com/user-attachments/assets/1d332ebd-ec26-4035-b39a-c10e5852d825" />
+
 
 # GRAPH:
 <img width="1216" height="1600" alt="WhatsApp Image 2026-05-28 at 8 48 12 PM" src="https://github.com/user-attachments/assets/623c1194-668d-4a5b-88f0-601e6b8dd4c8" />

@@ -12,7 +12,7 @@ To measure unknown value of low resistance by balancing the Kelvin’s double br
 2 Galvanometer -- 1
 
 3 Patch cards -- 3
-
+ 
 4 Unknown resistance —1
    
 # CIRCUIT DIAGRAM

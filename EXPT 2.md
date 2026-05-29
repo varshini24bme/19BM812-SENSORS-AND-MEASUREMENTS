@@ -43,6 +43,8 @@ i)Resistance-Temperature for thermistor
 
 
 # GRAPH:
+<img width="1192" height="1594" alt="WhatsApp Image 2026-05-28 at 8 48 02 PM" src="https://github.com/user-attachments/assets/9abbee8e-8a5f-4c20-a374-decaa2fe4c36" />
+
 
 
 # RESULT
